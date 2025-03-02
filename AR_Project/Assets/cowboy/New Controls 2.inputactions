@@ -1,0 +1,45 @@
+{
+    "name": "New Controls 2",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "05166469-225b-4507-b1a2-16773ff5e5f5",
+            "actions": [
+                {
+                    "name": "Touch",
+                    "type": "Value",
+                    "id": "6f3d8f6b-dfb7-4d8c-a444-80c1bed7c3e1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1ceebd14-d476-4769-80c4-08bedb5c2f1a",
+                    "path": "<Touchscreen>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3c31a548-f57d-46d9-99ca-75f9822f85eb",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Touch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
